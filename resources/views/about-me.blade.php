@@ -3,5 +3,5 @@
 About Me
 @endsection
 @section('contents')
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero officia veritatis eum odio assumenda repudiandae laudantium a quasi provident, sapiente aut? Omnis quos minus voluptates consequatur qui autem eveniet debitis.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptates, quam ipsam animi est ut velit consectetur pariatur sint soluta repudiandae aut voluptatibus, doloribus illum. Quasi aperiam praesentium tempora mollitia!
 @endsection

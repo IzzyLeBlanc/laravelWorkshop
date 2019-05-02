@@ -7,7 +7,7 @@
         <div id="content-title">
             <h2>@yield('title')</h2>
         </div>
-        <p>@yield('contents')</p>
+        @yield('contents')
     </div>
     @include('component.footer')
 </body>
